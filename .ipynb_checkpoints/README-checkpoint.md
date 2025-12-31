@@ -73,7 +73,6 @@ This project builds a **robust predictive model** using **ensemble boosting tech
 ## 📁 Project Structure
 
 HeartBoostML/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-│
 ├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;├── heart_disease_dataset.csv&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> 
 ├── heart_disease_model_training.ipynb&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
